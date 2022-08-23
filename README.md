@@ -14,7 +14,7 @@ I'm a full stack developer
 - 💬 Ask me about: Tech
 - 📫 How to reach me: jhembe202@gmail.com
 <!-- - 😄 Pronouns: ... -->
-- By the way, I use Arch ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+### By the way, I use Arch ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 
 <!-- ## ⚡ Fun fact -->
