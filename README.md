@@ -4,8 +4,7 @@
 
 ## 🚀 About Me
 
-Student at 
-![University of Dodoma](https://udom.ac.tz/)
+Student at ![University of Dodoma](https://udom.ac.tz/)
 
 I'm a full stack developer
 
