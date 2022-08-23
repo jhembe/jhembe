@@ -3,7 +3,9 @@
 
 
 ## 🚀 About Me
-Student at [![University of Dodoma](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://udom.ac.tz/)
+
+Student at University of Dodoma
+![University of Dodoma](https://udom.ac.tz/)
 
 I'm a full stack developer
 
@@ -15,9 +17,10 @@ I'm a full stack developer
 - 💬 Ask me about loistracyshimba@gmail.com
 - 📫 How to reach me: jhembe202@gmail.com
 - 😄 Pronouns: ...
-- By the way, I use Arch 
+- By the way, I use Arch
 
-## ⚡ Fun fact: 
+## ⚡ Fun fact:
+
 ```bash
   ❤️‍🔥 The first programmer was the daughter of a mad poet
 ```
@@ -25,6 +28,7 @@ I'm a full stack developer
 ```bash
   🤣 Coding Bugs were NOT named afte an actual bug
 ```
+
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
 [![linkedin](https://www.linkedin.com/in/jhembe)](https://www.linkedin.com/)
