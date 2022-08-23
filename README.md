@@ -20,6 +20,7 @@ I'm a full stack developer
 
 
 <!-- ## ⚡ Fun fact -->
+&nbsp;
 
 <h1 align="center">⚡ Fun fact </h1>
 
@@ -31,6 +32,7 @@ I'm a full stack developer
   🤣 Coding Bugs were NOT named afte an actual bug
 ```
 
+&nbsp;
 ## 🔗 Links
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
