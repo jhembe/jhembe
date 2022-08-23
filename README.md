@@ -1,7 +1,7 @@
 # Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhembe)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jhembe)](https://git.io/streak-stats)
-https://github-readme-stats.vercel.app/api/top-langs/?username=jhembe
+[![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jhembe)]
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jhembe&theme=highcontrast)](https://git.io/streak-stats) -->
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=jhembe&theme=full)
 <!--
