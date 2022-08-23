@@ -33,13 +33,18 @@ I'm a full stack developer
 ```
 
 &nbsp;
-## 🔗 Links
+<!-- ## 🔗 Links -->
+<h2 align="center">🔗 Links</h2>
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
-## Acknowledgements
+&nbsp;
+
+🔗 Links
+<!-- ## Acknowledgements -->
+<h2 align="center">Acknowledgements</h2>
 
 - [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
 - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
@@ -55,7 +60,10 @@ I'm a full stack developer
 
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) -->
 
-## 🛠 Skills
+&nbsp;
+
+<!-- ## 🛠 Skills -->
+<h2 align="center">🛠 Skills</h2>
 
 ### Languages
 
@@ -97,7 +105,10 @@ I'm a full stack developer
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
+🛠 Skills
 ## Stats
+
+<h2 align="center">Statistics</h2>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhembe)](https://github.com/anuraghazra/github-readme-stats)
