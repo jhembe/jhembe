@@ -9,12 +9,12 @@ I'm a full stack developer
 
 - 🔭 I’m currently working on OCRMS
 - 🌱 I’m currently learning React Js
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on Web Apps 
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about loistracyshimba@gmail.com
+- 💬 Ask me about: Tech
 - 📫 How to reach me: jhembe202@gmail.com
-- 😄 Pronouns: ...
-- By the way, I use Arch
+<!-- - 😄 Pronouns: ... -->
+- By the way, I use Arch ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 
 <!-- ## ⚡ Fun fact -->
