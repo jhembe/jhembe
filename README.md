@@ -1,7 +1,9 @@
 
-# Hi, I'm Joseph! 👋
+<!-- # Hi, I'm Joseph! 👋 -->
+<h1 align="center">Hi, I'm Joseph! 👋</h1>
 
-## 🚀 About Me
+<!-- ## 🚀 About Me -->
+<h2 align="center">🚀 About Me</h2>
 
 Student at ![University of Dodoma](https://udom.ac.tz/)
 
