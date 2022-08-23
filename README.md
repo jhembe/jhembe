@@ -18,6 +18,8 @@ I'm a full stack developer
 
 ## ⚡ Fun fact
 
+<h1 align="center">Hello</h1>
+
 ```bash
   ❤️‍🔥 The first programmer was the daughter of a mad poet
 ```
@@ -98,8 +100,4 @@ I'm a full stack developer
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jhembe&theme=highcontrast)](https://git.io/streak-stats) -->
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=jhembe&theme=full)
 
-hello
-=====
 
-helo
-----
