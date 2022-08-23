@@ -105,7 +105,7 @@ I'm a full stack developer
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 
-🛠 Skills
+&nbsp;
 ## Stats
 
 <h2 align="center">Statistics</h2>
@@ -116,7 +116,7 @@ I'm a full stack developer
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jhembe)](https://git.io/streak-stats)
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jhembe&theme=highcontrast)](https://git.io/streak-stats) -->
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=jhembe&theme=full)
-
+&nbsp;
 ## Support
 
 For support, Contact me through the following.
