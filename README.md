@@ -34,8 +34,7 @@ I'm a full stack developer
 
 ## Acknowledgements
 
-- [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
-- [Awesome README](https://github.com/matiassingers/awesome-readme)
+- [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
 - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
 ## Color Reference
