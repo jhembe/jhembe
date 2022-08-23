@@ -16,9 +16,10 @@ I'm a full stack developer
 - 😄 Pronouns: ...
 - By the way, I use Arch
 
-## ⚡ Fun fact
 
-<h1 align="center">Hello</h1>
+<!-- ## ⚡ Fun fact -->
+
+<h1 align="center">⚡ Fun fact </h1>
 
 ```bash
   ❤️‍🔥 The first programmer was the daughter of a mad poet
