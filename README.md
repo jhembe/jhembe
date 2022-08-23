@@ -67,6 +67,7 @@ I'm a full stack developer
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MaraDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ### Graphics Softwares
 
@@ -97,6 +98,10 @@ I'm a full stack developer
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+### Other
+
+![Ms Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 
@@ -111,4 +116,11 @@ I'm a full stack developer
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jhembe)](https://git.io/streak-stats)
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jhembe&theme=highcontrast)](https://git.io/streak-stats) -->
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=jhembe&theme=full)
+
+## Support
+
+For support, Contact me through the following.
+
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)(t.me/jhembe28)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(jhembe202@gmail.com)
 
