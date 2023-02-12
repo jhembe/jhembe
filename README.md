@@ -29,7 +29,7 @@ I'm a full stack developer
 ```
 
 ```bash
-  🤣 Coding Bugs were NOT named afte an actual bug
+  🤣 Coding Bugs were NOT named after an actual bug
 ```
 
 &nbsp;
