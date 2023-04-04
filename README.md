@@ -9,7 +9,7 @@ Student at ![University of Dodoma](https://udom.ac.tz/)
 
 I'm a full stack developer
 
-- 🔭 I’m currently working on OCRMS
+- 🔭 I’m currently working on Agricultural System
 - 🌱 I’m currently learning React Js
 - 👯 I’m looking to collaborate on Web Apps 
 - 🤔 I’m looking for help with ...
