@@ -9,9 +9,9 @@ Student at ![University of Dodoma](https://udom.ac.tz/)
 
 I'm a full stack developer
 
-- 🔭 I’m currently working on Agricultural System
+- 🔭 I’m currently working on Data Science
 - 🌱 I’m currently learning React Js
-- 👯 I’m looking to collaborate on Web Apps 
+- 👯 I’m looking to collaborate on Websites, web Apps & Data analytics
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about: Tech
 - 📫 How to reach me: jhembe202@gmail.com
@@ -25,7 +25,7 @@ I'm a full stack developer
 <h1 align="center">⚡ Fun fact </h1>
 
 ```bash
-  ❤️‍🔥 The first programmer was the daughter of a mad poet
+  ❤️‍🔥 Coding will soon be as important as reading. ...
 ```
 
 ```bash
@@ -37,7 +37,7 @@ I'm a full stack developer
 <!-- <h2 align="center">🔗 Links</h2> -->
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-mahembega)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
 &nbsp;
