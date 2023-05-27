@@ -125,6 +125,9 @@ I'm a full stack developer
 <img src="https://github-readme-stats.vercel.app/api?username=jhembea&show_icons=true" />
 </picture>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhembe&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!-- ![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jhembe) -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jhembe)](https://git.io/streak-stats)
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jhembe&theme=highcontrast)](https://git.io/streak-stats) -->
