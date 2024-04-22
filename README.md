@@ -7,16 +7,24 @@
 
 Student at ![University of Dodoma](https://udom.ac.tz/)
 
-I'm a full stack developer
+I'm a | Tech Enthusiast | Full stack developer | Data Scientist
 
-- 🔭 I’m currently working on Data Science
-- 🌱 I’m currently learning React Js
+- 🔭 I’m currently working on Machine Learning
+
+- 🌱 I’m currently learning Node Js
+
 - 👯 I’m looking to collaborate on Websites, web Apps & Data analytics
+
 - 🤔 I’m looking for help with ...
+
 - 💬 Ask me about: Tech
-- 📫 How to reach me: jhembe202@gmail.com
+
+- 📫 How to reach me: 👇
+
+- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jhembe) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhembe202@gmail.com)
 <!-- - 😄 Pronouns: ... -->
-### By the way, I use Arch ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+### By the way, I use [Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 
 <!-- ## ⚡ Fun fact -->
@@ -59,12 +67,13 @@ I'm a full stack developer
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### RDBMS
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MaraDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
@@ -75,7 +84,7 @@ I'm a full stack developer
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
 ### Code Editors
-
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![VS Code Insiders](https://img.shields.io/badge/VS%20Code%20Insiders-35b393.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
@@ -95,8 +104,12 @@ I'm a full stack developer
 ![MarkDown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### Frameworks
+![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Node JS](  https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Express JS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Other
 
@@ -111,18 +124,18 @@ I'm a full stack developer
 <h2 align="center">Statistics</h2>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhembe)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhembe)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <picture>
-<source
+ <source
   srcset="https://github-readme-stats.vercel.app/api?username=jhembe&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
-/>
+/> 
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=jhembe&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=jhembea&show_icons=true" />
+/> 
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=jhembea&show_icons=true" /> -->
 </picture>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhembe&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
@@ -137,7 +150,7 @@ I'm a full stack developer
 
 For support, Contact me through the following.
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jhembe28)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jhembe)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhembe202@gmail.com)
 
 
