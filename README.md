@@ -5,7 +5,7 @@
 <!-- ## 🚀 About Me -->
 <h2 align="center">🚀 About Me</h2>
 
-Student at ![University of Dodoma](https://udom.ac.tz/)
+### Computer Science Graduate
 
 I'm a | Tech Enthusiast | Full stack developer | Data Scientist
 
@@ -21,8 +21,12 @@ I'm a | Tech Enthusiast | Full stack developer | Data Scientist
 
 - 📫 How to reach me: 👇
 
-- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jhembe) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhembe202@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-mahembega)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jhembe) 
+
+
+
 <!-- - 😄 Pronouns: ... -->
 ### By the way, I use [Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
