@@ -9,7 +9,7 @@
 
 I'm a | Tech Enthusiast | Full stack developer | Data Scientist
 
-- 🔭 I’m currently working on Machine Learning
+- 🔭 I’m currently working on a Machine Learning Project
 
 - 🌱 I’m currently learning Node Js
 
