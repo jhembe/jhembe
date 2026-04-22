@@ -39,12 +39,6 @@ joseph = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jhembe&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</p>
-
 ---
 
 ## 🛠 Tech Stack
@@ -106,20 +100,11 @@ joseph = {
 </p>
 
 ---
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jhembe/jhembe/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
-> ℹ️ *To enable the snake animation: go to your profile repo **Actions** tab → enable workflows → run the `Generate Snake` action. [Setup guide here](https://github.com/Platane/snk).*
-
 ---
 
 ## 🌍 Professional Recognition
 
-- 🏛 **DIAL ADLI Program** — Selected participant in a fully funded regional digital leadership initiative by the Digital Impact Alliance, including a study visit to Cape Town focused on digital public infrastructure, data governance, and scalable digital systems.
+- 🏛 **DIAL ADLI Program** — Selected participant in a fully funded regional digital leadership initiative by the Digital Impact Alliance, including a visit to Cape Town focused on digital public infrastructure, data governance, and scalable digital systems.
 
 ---
 
