@@ -84,10 +84,10 @@ joseph = {
 
 <p align="center">
   <a href="https://github.com/jhembe/payeplus">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhembe&repo=payeplus&theme=algolia&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhembe&repo=payeplus&theme=algolia&hide_border=true&cache_seconds=86400" />
   </a>
   <a href="https://github.com/jhembe/sme-insights">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhembe&repo=sme-insights&theme=algolia&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhembe&repo=sme-insights&theme=algolia&hide_border=true&cache_seconds=86400" />
   </a>
 </p>
 
@@ -124,14 +124,11 @@ Running a production Ubuntu 24.04 server with **37+ Docker containers** across m
 ## 📊 GitHub Stats
 
 <p align="center">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=jhembe&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&count_private=true" media="(prefers-color-scheme: dark)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=jhembe&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&count_private=true" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=jhembe&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhembe&layout=compact&theme=algolia&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhembe&layout=compact&theme=algolia&hide_border=true&langs_count=8&cache_seconds=86400" />
 </p>
 
 <p align="center">
