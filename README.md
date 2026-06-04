@@ -83,11 +83,11 @@ joseph = {
 ## 🏗 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/jhembe/dse-pulse">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhembe&repo=dse-pulse&theme=algolia&hide_border=true" />
+  <a href="https://github.com/jhembe/payeplus">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhembe&repo=payeplus&theme=algolia&hide_border=true" />
   </a>
-  <a href="https://github.com/jhembe/pesa-tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhembe&repo=pesa-tracker&theme=algolia&hide_border=true" />
+  <a href="https://github.com/jhembe/sme-insights">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhembe&repo=sme-insights&theme=algolia&hide_border=true" />
   </a>
 </p>
 
@@ -135,7 +135,7 @@ Running a production Ubuntu 24.04 server with **37+ Docker containers** across m
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jhembe&theme=algolia&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=jhembe&theme=algolia&hide_border=true" />
 </p>
 
 ---
